@@ -9,12 +9,13 @@
 <br>
 
 ## Report (Code) : 최혜은(5조) - 세계 행복 보고서.ipynb
+>위 파일과 동일합니다!<br>
 >https://colab.research.google.com/drive/1yxoFSP-pHKOv705QCwT_s6otBTyTdkS3
 
 <br>
 
 ## 발표 자료 (결과물)
->pdf파일 임베딩
+>pdf파일 임베딩<br>
 >보고서 임베딩?
 
 <br>
