@@ -22,4 +22,5 @@
 
 ## Project-Log : 5조 프로젝트 로그 (노션).pdf
 >프로젝트 로그! 꼭 읽어주세요! <br>
+>위 파일과 동일합니다. <br>
 >https://www.notion.so/5-Mid-Project-Log-1b58a77d96d980efb3a8f8a8bb212e0f#1b88a77d96d98032afecc7e62b20f5e1
